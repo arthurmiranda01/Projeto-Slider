@@ -1,3 +1,14 @@
+
+
+
+
+
+
+
+
+
+
+
 let totalSlides = document.querySelectorAll('.slider--item').length;
 let currentSlide = 0;
 
@@ -34,3 +45,27 @@ function updateMargin() {
 }
 
 setInterval(goNext, 5000);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
